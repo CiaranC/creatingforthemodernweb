@@ -1,0 +1,54 @@
+Introduction - How the web has changed the way we design
+
+The humble page - print design
+Early web design - page based layouts, mimic print
+Evolution of screen sizes
+
+Death to the page - forget boundaries.
+
+Re-think
+Responsive or adaptive
+Responsive design -  No. GOOD design. It either works or it doesn't...
+
+
+Design & development. Designs impact on development and vice versa. Why both roles are overlapping and the the workflows they have created.
+
+Outcome - 
+Desired - Great design, efficient code
+Method - Design with rules (not original, magazine layouts, style guides etc.)
+
+*
+Arbitrarily resizing fonts - no,no. Answer - typographic scale, uniform font sizes, margins, padding.
+MAGIC NUMBERS!
+*
+
+Re-usable, modular patterns (pattern lab)
+-Be lean, consider everything from color pallett to text margins
+
+Re-useable = less code. Everybody wins.
+
+(tyopgraphic scale) 90-95% of the web is typography - WEB fonts though!
+
+So...
+
+Can still be as creative as we like but with form.
+
+Consistancy is key. 
+
+
+adendum:
+Accessability
+User Experience - Design must be logical, who uses the site, what do they want to do?
+You are not your cat.
+
+One of the biggest challenges that we, as designers, face today when creating for the web is ensuring that what we create can be experienced by the everybody on any device without compromise on content or quality.
+
+We no longer have the luxury of pre-determined fixed medium specs to build our work for
+
+It can sometimes be hard to stray from the concept of the page. Photoshop doesn’t help…
+
+Mobile first design - bare minimum, content is king
+Desktop first - Aesthetic and content play equal parts
+Somewhere in between
+
+Pro tip: Have a separate photoshp/illy template profile set to px/RGBA/
